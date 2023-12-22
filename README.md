@@ -1,5 +1,5 @@
-## Olá! Eu sou o Wesley Reis 🖐️
-
+# Olá! Eu sou o Wesley Reis 🖐️
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1000&lines=<b>Olá!+Eu+sou+o+Wesley+Reis+🖐️</b>)](https://git.io/typing-svg)
 [![Meu site](https://img.shields.io/website?label=PORTTALimoveis&style=for-the-badge&url=https://porttalimoveis.com.br/)](https://porttalimoveis.com.br/comprar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/PORTTALimóveis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleyreis)
